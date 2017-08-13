@@ -37,10 +37,10 @@ Config::set('default_controller','home');
 Config::set('default_action'    ,'index');
 
 // DataBase config
-Config::set('db.host'    ,'pr0o.mysql.ukraine.com.ua');
-Config::set('db.user'    ,'pr0o_ru');
-Config::set('db.password','hcmvh55b');
-Config::set('db.name'    ,'pr0o_ru');
+Config::set('db.host'    ,'');
+Config::set('db.user'    ,'');
+Config::set('db.password','');
+Config::set('db.name'    ,'');
 
 // salt makes the password more complex
 Config::set('salt', 'dfnk346jg4jg36gj4h5g6kg5kjg3');
