@@ -13,9 +13,9 @@ Config::set('site_name','BBC NEWS');
 // array of languages
 Config::set(
     'languages', array (
-        'rus',
-        'ukr',
-        'eng'
+        'ru',
+        'ua',
+        'en'
     )
 );
 
